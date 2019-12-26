@@ -1,0 +1,13 @@
+delete from PERSON;
+
+
+
+
+
+
+
+
+
+
+
+
